@@ -2,10 +2,6 @@
 
 最初写这些笔记是为了防止忘记知识，现在分享出来希望能帮助到阅读的人
 
-## 访问地址
-
-[https://notes.0x0.ink](https://notes.0x0.ink)
-
 ## 创作协议
 
 笔记遵循 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) 创作协议
