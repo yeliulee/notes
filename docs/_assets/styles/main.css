@@ -1,0 +1,10 @@
+@media screen and (max-width: 768px) {
+    #docsify-darklight-theme {
+        position: absolute !important;
+        left: unset;
+        right: 10px !important;
+        top: 25px !important;
+        width: 25px !important;
+        height: 25px !important;
+    }
+}

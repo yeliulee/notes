@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="zh">
+  <head>
+    <meta charset="UTF-8" />
+    <title>夜琉璃君的笔记</title>
+    <link
+      rel="shortcut icon"
+      href="_assets/images/favicon.ico"
+      type="image/x-icon"
+    />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="description" content="Description" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0"
+    />
+    <link rel="stylesheet" href="_assets/styles/style.min.css">
+    <link rel="stylesheet" href="_assets/styles/main.css">
+  </head>
+  <body>
+    <div id="app"></div>
+    <script>
+      window.$docsify = {
+        name: `夜琉璃君的笔记`,
+        repo: 'https://github.com/yeliulee/notes',
+        coverpage: "_cover.md",
+        loadSidebar: true,
+        alias: {
+          "/.*/_sidebar.md": "/_sidebar.md",
+        },
+        auto2top: true,
+        search: {
+          placeholder: {
+            "/": "搜索",
+          },
+        },
+        maxLevel: 4,
+        subMaxLevel: 2,
+      };
+    </script>
+    <script src="_assets/scripts/docsify.min.js"></script>
+    <script src="_assets/scripts/search.min.js"></script>
+    <script src="_assets/scripts/pangu.min.js"></script>
+    <script src="_assets/scripts/docsify-darklight-theme.min.js"></script>
+  </body>
+</html>
